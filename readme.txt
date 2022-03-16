@@ -1,4 +1,4 @@
-Completed a project from CodeCademy focused on responsive design with instructions as per below:
+Completed an off platform project from CodeCademy focused on responsive design with instructions as per below:
 
 
 In this project, you will create a fictional tea shop website on your own computer.
