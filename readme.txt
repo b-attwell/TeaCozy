@@ -1,3 +1,5 @@
+Deployed this to GitHub pages: https://azera-21.github.io/TeaCozy/
+
 Completed an off platform project from CodeCademy focused on responsive design with instructions as per below:
 
 
